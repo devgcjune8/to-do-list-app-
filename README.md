@@ -13,6 +13,4 @@ Features:
 * Delete a to-do item
 
 
-* Best for small screens
-
 Live version [here](https://to-do-list-app-devgcjune8.pages.dev/)
